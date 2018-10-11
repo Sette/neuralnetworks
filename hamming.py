@@ -27,6 +27,8 @@ for x in mx:
         test.append(sum)
     y.append(test)
 
+#--------------------------------MaxNet ---------------------------- #
+
 a = []
 geral = []
 E = 1 / (M-1)
